@@ -1,7 +1,7 @@
 "use strict"
 
 const h1 = document.querySelector("h1");
-const reset = document.querySelectorAll("button")[0];
+const resetButton = document.querySelectorAll("button")[0];
 const FirstButton =  document.querySelectorAll("button")[1]
 const Second2Button = document.querySelectorAll("button")[2];
 const input = document.querySelector("input");
@@ -26,3 +26,17 @@ function addScoreForScoreTwo() {
 		
         scoreTwo ++;
 }
+
+// creations des fonctions 
+
+
+
+
+
+
+
+
+
+
+// creations des ecouteurs d'evenements
+
